@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:5000"; 
+const API_BASE = ""; 
  
 let currentUser = JSON.parse(localStorage.getItem("egreenUser")) || null; 
 let selectedState = 0; 
